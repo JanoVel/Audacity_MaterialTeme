@@ -1,7 +1,7 @@
 Audacity Material Theme
 =======================
 
-This is an Audacity theme made using the Google Material Design icons. It has a simpler and flatter look than the defauls Audacity theme.
+This is an Audacity theme made using the Google Material Design icons. It has a simpler and flatter look than the default Audacity theme.
 
 ![](https://raw.githubusercontent.com/JanoVel/Audacity_MaterialTeme/master/MaterialTheme_Audacity.png)
 
